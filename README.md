@@ -80,8 +80,3 @@ The project followed a structured **BI development lifecycle**:
 
 ---
 
-## 📂 Repository Structure  
-```plaintext
-├── Hospital Dashbord.pbix          # Power BI file
-├── README.md                       # Project documentation
-
