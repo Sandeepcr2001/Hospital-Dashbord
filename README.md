@@ -69,7 +69,7 @@ The project followed a structured **BI development lifecycle**:
 ## 📸 Dashboard Previews  
  
 
-![Monthly View](images/monthly_view.png)  
+![Monthly View](Monthly View.png)  
 *Monthly ER dashboard with admissions, age distribution, and referrals*  
 
 ![Consolidated View](images/consolidated_view.png)  
