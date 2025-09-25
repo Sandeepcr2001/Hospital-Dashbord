@@ -67,8 +67,7 @@ The project followed a structured **BI development lifecycle**:
 ---
 
 ## 📸 Dashboard Previews  
-
-> Replace the placeholders below with actual screenshots from your Power BI dashboard.  
+ 
 
 ![Monthly View](images/monthly_view.png)  
 *Monthly ER dashboard with admissions, age distribution, and referrals*  
@@ -84,6 +83,5 @@ The project followed a structured **BI development lifecycle**:
 ## 📂 Repository Structure  
 ```plaintext
 ├── Hospital Dashbord.pbix          # Power BI file
-├── Hopital Emergency Room PPT.pptx # Project presentation
 ├── README.md                       # Project documentation
 
