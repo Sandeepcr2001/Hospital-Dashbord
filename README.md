@@ -75,7 +75,7 @@ The project followed a structured **BI development lifecycle**:
 ![Consolidated View](https://github.com/Sandeepcr2001/Hospital-Dashbord/blob/main/Consolidated%20View.png?raw=true)  
 *Consolidated ER metrics across date ranges*  
 
-![Patient Details](images/patient_details.png)  
+![Patient Details](https://github.com/Sandeepcr2001/Hospital-Dashbord/blob/main/Patient%20Details.png?raw=true) 
 *Detailed patient-level analysis for ER visits*  
 
 ---
